@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/fragment__application.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/fragment__home.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/fragment_developers.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/fragment_teacher_initial.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/fragment_teacher_name.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/fragment_teacher_name_part2.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/home_page1.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/nav_header_page4.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/navigation_page5.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/Android-App-DIUStudentSupport-master/Android-App-DIUStudentSupport-master/app/src/main/res/layout/search_result.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
